@@ -3,7 +3,7 @@
 Template repo to test new pangeo base-image for binderhubs
 
 #### NWM Gist test
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Staging+Binder&message=AWS+us-west-2&color=red)](https://staging.aws-uswest2-binder.pangeo.io/v2/gh/scottyhq/pageodev-binder-image/master?urlpath=git-pull?repo=https://gist.github.com/rsignell-usgs/71c4eac62d88aca2c8d765bc7dcd11de)
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Staging+Binder&message=AWS+us-west-2&color=red)](https://staging.aws-uswest2-binder.pangeo.io/v2/gh/scottyhq/pageodev-binder-image/master?urlpath=git-pull?repo=https://gist.github.com/rsignell-usgs/71c4eac62d88aca2c8d765bc7dcd11de?urlpath=lab/tree/71c4eac62d88aca2c8d765bc7dcd11de/NWM-transport-plot.ipynb%3Fautodecode)
 
 #### Launch on pangeo binders
 [![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=GCE+us-central1&color=blue)](https://binder.pangeo.io/v2/gh/scottyhq/pageodev-binder-image/master?urlpath=lab)
