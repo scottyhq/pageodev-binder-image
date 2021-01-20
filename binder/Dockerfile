@@ -1,1 +1,3 @@
-FROM pangeo/pangeo-notebook:2021.01.07
+FROM pangeo/pangeo-notebook:master
+
+RUN pip install git+https://github.com/TomAugspurger/dask-labextension.git@pangeo-fixup
