@@ -1,1 +1,1 @@
-FROM pangeo/pangeo-notebook:master
+../config1/Dockerfile
