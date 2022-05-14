@@ -4,8 +4,6 @@ FROM mambaorg/micromamba:0.23.1 as solver
 RUN --mount=type=bind,source=env.yaml,target=/tmp/env.yaml \
     micromamba install -y -f /tmp/env.yaml \
     && micromamba clean --all --yes 
-eot
-
 
 FROM condaforge/mambaforge:4.12.0-0
 
