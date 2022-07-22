@@ -1,2 +1,2 @@
 awscli
-git+https://github.com/scottyhq/jupyter-cloud-scoped-creds.git@7d2935c
+git+https://github.com/scottyhq/jupyter-cloud-scoped-creds.git@5e0dff4
