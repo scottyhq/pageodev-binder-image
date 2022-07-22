@@ -5,7 +5,4 @@ channels:
 dependencies:
   - python=3.9
   - pangeo-notebook=2022.07.12
-  - pip
   - git
-  - pip:
-    - git+https://github.com/scottyhq/jupyter-cloud-scoped-creds.git@main
